@@ -1,0 +1,8 @@
+target
+memory
+.idea
+.classpath
+.project
+.settings/
+Todo.md
+src/main/resources/application.properties
