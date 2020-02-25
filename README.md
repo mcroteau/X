@@ -1,4 +1,4 @@
-﻿# ∞ SigmaX
+﻿# SigmaX
 
 This project is Open to download and view source code.
 
