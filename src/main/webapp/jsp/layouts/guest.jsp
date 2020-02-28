@@ -3,7 +3,7 @@
 
 <html>
 <head>
-    <title>SigmaX : Power to the people</title>
+    <title>SigmaX : Bring it to the people.</title>
 
     <link href="https://fonts.googleapis.com/css?family=Roboto:200,300,400,500,600,700&display=swap" rel="stylesheet">
 

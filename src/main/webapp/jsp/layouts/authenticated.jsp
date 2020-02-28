@@ -6,7 +6,7 @@
 <!doctype html>
 <html>
 <head>
-	<title>&Delta;&deg; Sigma90 : Music Driven</title>
+	<title>&infin; SigmaX : Music Driven</title>
 	
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" type="image/png" href="${pageContext.request.contextPath}/images/Sigma90-logo.png">
@@ -33,9 +33,6 @@
         var songDisplay = 1;
         var musicPlayer = null;
 
-
-        var req = new Request("${pageContext.request.contextPath}");
-        var web = new WebForm();
 
         function initializeProgressBar(){
 
@@ -333,11 +330,6 @@
 			<a href="javascript:" id="close-love" class="button yella">Close</a>
 		</div>
 	</div>
-
-	<div id="processing-overlay">
-	    <img src="${pageContext.request.contextPath}/images/processing.gif" style="height:50px; width:50px;"/>
-	</div>
-
 
 
 	<div id="layout-container" >
