@@ -25,7 +25,7 @@
 		<jstl.version>1.2</jstl.version>
 		<servlet.api.version>2.5</servlet.api.version>
 		<stripe.version>13.1.0</stripe.version>
-		<shiro.version>1.5.0</shiro.version>
+		<shiro.version>1.7.1</shiro.version>
 		<dbh2.version>1.2.141</dbh2.version>
 		<hsqldb.version>2.4.1</hsqldb.version>
 		<mail.version>1.4.7</mail.version>
